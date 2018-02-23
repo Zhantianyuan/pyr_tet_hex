@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\zty\nottingham\normal\year2\H62PEP\cp-week4\pyramid\Pyramid.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\zty\nottingham\normal\year2\H62PEP\cp-week4\pyramid\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EEAA30F1-4604-3CA2-8D41-16C013604FED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

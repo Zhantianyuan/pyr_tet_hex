@@ -1,0 +1,3 @@
+D:/zty/nottingham/normal/year2/H62PEP/cp-week4/Tetrahedron/build/CMakeFiles/Tetrahedron.dir
+D:/zty/nottingham/normal/year2/H62PEP/cp-week4/Tetrahedron/build/CMakeFiles/ALL_BUILD.dir
+D:/zty/nottingham/normal/year2/H62PEP/cp-week4/Tetrahedron/build/CMakeFiles/ZERO_CHECK.dir

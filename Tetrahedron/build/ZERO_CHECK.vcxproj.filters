@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\zty\nottingham\normal\year2\H62PEP\cp-week4\Tetrahedron\build\CMakeFiles\10fd59ce1fc56c4b455de159e7e62064\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1CCE9627-8F8E-3D67-A3C8-85475268F038}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
